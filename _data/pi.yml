@@ -1,21 +1,21 @@
-- name: Dr. Richard Feynman
+- name: Subhashis Das
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: Subhashis Das
+  email: p23cs0012@iitj.ac.in
+  github: https://github.com/ItzSubhashisDas
+  linkedin: https://www.linkedin.com/in/subhashis-das-9a7258170/
+  scholar: https://scholar.google.com/
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  education1: "(Present) Ph.D. CSE, Indian Institute of Technology Jodhpur"
+  education2: "(2023) M.Tech. DCS, Indian Institute of Technology Jodhpur"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (Present) Ph.D. CSE, IIT Jodhpur
+  education2short: (2023) M.Tech. DCS, IIT Jodhpur 
   # education3short: 
   # education4short: 
   # education5short: 

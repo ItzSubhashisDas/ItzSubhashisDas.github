@@ -7,18 +7,16 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Greetings and a warm welcome to my corner of the internet! I am delighted to share with you my ongoing expedition through the intricate realm of Computer Science & Engineering as a dedicated PhD student. This web page serves as a digital chronicle of my academic odyssey, where curiosity knows no bounds, and the pursuit of knowledge is a driving force.
+
+Join me as I delve into the depths of AI, fueled by an unquenchable thirst for understanding and a passion for unraveling the mysteries that define our world. Here, I aim to provide insights into the fascinating discoveries I'm making, the challenges I'm tackling, and the innovative ideas that are shaping the course of my research.
 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
 Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949) -->
 </center>
 </div>
 </div>
@@ -26,8 +24,8 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+I am a PhD Candidate and I am currently embarked on an exhilarating journey as a PhD student in the Department of Computer Science and Engineering at the prestigious Indian Institute of Technology Jodhpur (IITJ). My passion for unraveling the intricacies of the digital world and my insatiable curiosity have driven me to this exciting juncture of academia.
+
+I received my Masters degree in Data and Computational Sciences(DCS) from the Indian Institute of Technology Jodhpur (IITJ) in 2023 and went on to pursue my PhD from Indian Institute of Technology Jodhpur.
+
 

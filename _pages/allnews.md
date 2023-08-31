@@ -13,4 +13,8 @@ permalink: /allnews.html
 
 {{ article.headline }}
 {% endfor %}
+{% if site_data.news == null %}
+  <b>No news here</b>
+{% endif %}
+
 </div>
